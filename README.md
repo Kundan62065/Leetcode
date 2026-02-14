@@ -1,5 +1,3 @@
-LeetCode is a web-based application built using HTML, CSS, & JavaScript that predicts a user's DSA  problem-solving level based on their LeetCode username.  Application fetches user data dynamically through an API by taking the LeetCode username as input. It retrieves information about the number of problems solved in different categories such as Easy, Medium, &Hard.===>make it under 350 word
-
 LeetCode Simple – DSA Difficulty Predictor
 
 LeetCode Simple is a web-based application built using HTML, CSS, and JavaScript that predicts a user’s DSA (Data Structures and Algorithms) problem-solving level based on their LeetCode username. The application fetches user data dynamically through an API by taking the LeetCode username as input. It retrieves information about the number of problems solved in different categories such as Easy, Medium, and Hard.
